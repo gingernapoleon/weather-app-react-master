@@ -7,7 +7,7 @@ export default function Weather() {
          <form> 
           <div className="row">
             <div className="col-9">
-            <input type="search" placeholder="Enter a city..." className="form-control"
+            <input type="search" placeholder="Enter a city..." className="form-control" autoFocus="on"
             />
             </div>
             <div className="col-3">
