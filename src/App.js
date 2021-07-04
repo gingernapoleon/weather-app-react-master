@@ -15,11 +15,19 @@ export default function App() {
       Ginger Napoleon
       </a>{" "} 
       and is{" "}  
-      <a href="https://github.com/gingernapoleon/weather-app-react" 
+      <a href="https://github.com/gingernapoleon/weather-app-react-master" 
       target="_blank" 
       rel="noreferrer"> 
       open-sourced on Github
-      </a> 
+     </a>{" "}
+          and{" "}
+          <a
+            href="https://affectionate-spence-6e17c7.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            hosted on Netlify
+          </a>
     </footer>
     </div>
     </div>
