@@ -48,6 +48,7 @@
   top: -34px;
 }
 
-.weather-info-description {
+.WeatherForecast-day,
+.WeatherForecast-day {
   display: inherit;
 }
